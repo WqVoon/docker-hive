@@ -1,5 +1,7 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
 
+> 在源仓库的基础上增加了 filebrowser 这个 service 方便读写 hdfs 上的文件做测试，访问 http://localhost:8088/filebrowser/ 即可
+
 # docker-hive
 
 This is a docker container for Apache Hive 2.3.2. It is based on https://github.com/big-data-europe/docker-hadoop so check there for Hadoop configurations.
